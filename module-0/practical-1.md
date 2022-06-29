@@ -1,7 +1,7 @@
 ---
 title: "Practical 1: Bash Commands"
 has_children: false
-nav_order: 2
+nav_order: 4
 parent: "Module 0: Introduction & Setup"
 ---
 

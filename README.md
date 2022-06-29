@@ -6,7 +6,7 @@ This repo's primary purpose is to host the [instructional website](https://bwsi-
 
 ## To edit/publish to the website:
 
-Follow instalation instructions [here](https://github.com/just-the-docs/just-the-docs).
+Follow installation instructions [here](https://github.com/just-the-docs/just-the-docs).
 
 To run the website, enter the following in a Terminal Tab:
 

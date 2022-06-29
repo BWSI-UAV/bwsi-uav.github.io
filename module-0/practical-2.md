@@ -1,7 +1,7 @@
 ---
 title: "Practical 2: Bugged Zip Sims Repo"
 has_children: false
-nav_order: 3
+nav_order: 5
 parent: "Module 0: Introduction & Setup"
 ---
 
