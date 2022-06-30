@@ -112,7 +112,7 @@ Next, we have to [stage our file](https://github.com/git-guides/git-add) to be r
 git add README.md
 ```
 
-You can also use `git add -A`, where the `-A` flag stands for all files in the entire working tree if you made changes to multiple files and you want to stage them all at once.
+You can also use `git add -A`, where the `-A` flag stands for all files in the entire working tree. This is useful if you made changes to multiple files and you want to stage them all at once.
 
 Now we want to [commit](https://github.com/git-guides/git-commit) this change. To commit, we need to write a brief message describing what kind of changes we made:
 ```bash

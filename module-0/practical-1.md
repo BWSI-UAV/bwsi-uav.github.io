@@ -19,3 +19,5 @@ Each person will create a sequence of bash commands that does the following:
 8. Display the contents of `bar.txt`
 9. Move up one directory, create a hidden directory called `hoo`, and copy `bar.txt` into the hidden directory `hoo`
 10. Delete `bar.txt` from directory `foo`
+
+Run these commands in Terminal if possible.

@@ -38,7 +38,7 @@ Continue through the setup wizard until you reach a Completed/thank you screen w
 
 You can directly download the ISO file [here](https://releases.ubuntu.com/20.04.4/ubuntu-20.04.4-desktop-amd64.iso) for Ubuntu 20.04.4 from the official Ubuntu website. This may take a while.
 
-<!-- TODO: Option for BitTorrent? -->
+<!-- TODO: Option for BitTorrent? Is it safe enough / worthwhile to menton? -->
 
 ## Upload ISO to VMWare
 
