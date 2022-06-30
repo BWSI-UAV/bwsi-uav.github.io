@@ -8,6 +8,9 @@ parent: "Module 0: Introduction & Setup"
 # Setup: Git & GitHub
 {: .no_toc }
 
+Configure Git and learn to stage, commit, and push your code to GitHub.
+{: .fs-6 .fw-300 }
+
 For any instructions from this point forward, you should be on your virtual machine, not Windows or MacOS. But note that anything you do here can also be done on a MacOS machine (for future reference).
 
 <details open markdown="block">
@@ -54,7 +57,7 @@ You will submit all individual code through GitHub.
   - nhanson2
   - arykledet
   - ifueko
-  - TODO: add Matthew Boyd's username
+  - mcboyd-bu
   - rumaisaabduhai
   - TODO: add Matthew Schofield's username
 

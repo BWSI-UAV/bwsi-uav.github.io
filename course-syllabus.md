@@ -27,10 +27,11 @@ Learn more about the program structure.
 1. Nathaniel Hanson, [nathaniel.hanson@ll.mit.edu](mailto:nathaniel.hanson@ll.mit.edu)
 2. Aryk Ledet, [Aryk.Ledet@ll.mit.edu](mailto:Aryk.Ledet@ll.mit.edu)
 
-### Associate Instructor
+### Associate Instructors
 {: .no_toc }
 
-1. Matthew Boyd, [mcboyd@bu.edu](mailto:mcboyd@bu.edu)
+1. Ifueko Nosakhare Igbinedion
+2. Matthew Boyd, [mcboyd@bu.edu](mailto:mcboyd@bu.edu)
 
 ### Teaching Assistants
 {: .no_toc }
@@ -38,7 +39,7 @@ Learn more about the program structure.
 1. Rumaisa Abdulhai, [rumaisa@mit.edu](mailto:rumaisa@mit.edu)
 2. Matthew Schofield, [mschof@mit.edu](mailto:mschof@mit.edu)
 
-Please contact our TAs via the official Discord server. If you don't have access, please reach out to the instructors.
+Please contact our staff via the official Discord server. If you don't have access, please reach out to the lead instructors.
 
 ## DJI Tello & Passport Curriculum
 
