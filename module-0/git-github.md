@@ -58,8 +58,8 @@ You will submit all individual code through GitHub.
   - arykledet
   - ifueko
   - mcboyd-bu
+  - mschof
   - rumaisaabduhai
-  - TODO: add Matthew Schofield's username
 
 ## Creating/Adding a SSH Key
 

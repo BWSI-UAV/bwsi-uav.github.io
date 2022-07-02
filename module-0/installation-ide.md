@@ -22,11 +22,15 @@ Set up your IDE/workspace with helpful extensions.
 
 ## Download IDE
 
-[Visual Studio Code](https://code.visualstudio.com/) is a great IDE where you can develop your code and edit many kinds of files. Download VS Code from [here](https://code.visualstudio.com/download) for Debian/Ubuntu systems (.deb, center).
+Visual Studio Code is a great IDE where you can develop your code and edit many kinds of files. Download VS Code from [here](https://code.visualstudio.com) for Debian/Ubuntu (.deb).
 
 ## Important Extensions
 
 We recommend you get the Python extension for VS code with [this link](https://marketplace.visualstudio.com/items?itemName=ms-python.python). You can also search for the extension with the id: `ms-python.python` in VS Code's extension search bar.
+
+There is also an extension for the Robot Operating System (ROS), a tool we will using often in this course. You can get it with [this link](https://marketplace.visualstudio.com/items?itemName=ms-iot.vscode-ros).
+
+This isn't an extension but while you're writing code, it's helpful to enable auto save by going to `File -> Auto Save`.
 
 ### Fun Extensions
 {: .no_toc }

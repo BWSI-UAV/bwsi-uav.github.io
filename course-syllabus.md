@@ -36,8 +36,8 @@ Learn more about the program structure.
 ### Teaching Assistants
 {: .no_toc }
 
-1. Rumaisa Abdulhai, [rumaisa@mit.edu](mailto:rumaisa@mit.edu)
-2. Matthew Schofield, [mschof@mit.edu](mailto:mschof@mit.edu)
+1. Matthew Schofield, [mschof@mit.edu](mailto:mschof@mit.edu)
+2. Rumaisa Abdulhai, [rumaisa@mit.edu](mailto:rumaisa@mit.edu)
 
 Please contact our staff via the official Discord server. If you don't have access, please reach out to the lead instructors.
 
