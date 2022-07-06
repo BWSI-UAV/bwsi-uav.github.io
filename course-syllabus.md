@@ -30,7 +30,7 @@ Learn more about the program structure.
 ### Associate Instructors
 {: .no_toc }
 
-1. Ifueko Nosakhare Igbinedion
+1. Ifueko Igbinedion, [ifueko@mit.edu](mailto:ifueko@mit.edu)
 2. Matthew Boyd, [mcboyd@bu.edu](mailto:mcboyd@bu.edu)
 
 ### Teaching Assistants
