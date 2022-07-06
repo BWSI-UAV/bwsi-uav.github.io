@@ -20,7 +20,7 @@ parent: "Module 0: Introduction & Setup"
 For this course, you will need to have a Linux machine. We can easily achieve this by installing a Linux virtual machine on our current computers. A virtual machine is software that you run on your computer that emulates a whole new, different computer. If you have a Windows or MacOS computer, follow the instructions below to install a Linux virtual machine with [VMware](https://www.vmware.com/).
 
 > **Note**
-> If you have a newer Mac with an M1 or M2 chip, please let us know. Way to check: `Apple Logo -> About This Mac -> Overview -> Processor`.
+> If you have a newer Mac with an M1 or M2 chip, you cannot install VMware Fusion Pro. One workaround is to install [VMware Fusion Tech Preview](https://customerconnect.vmware.com/downloads/get-download?downloadGroup=FUS-PUBTP-2021H1) instead. Way to check for chip type: `Apple Logo -> About This Mac -> Overview -> Processor`.
 
 ## Install VMware
 
