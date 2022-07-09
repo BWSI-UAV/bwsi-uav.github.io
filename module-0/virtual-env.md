@@ -20,7 +20,7 @@ parent: "Module 0: Introduction & Setup"
 For this course, you will need to have a Linux machine. We can easily achieve this by installing a Linux virtual machine on our current computers. A virtual machine is software that you run on your computer that emulates a whole new, different computer. If you have a Windows or MacOS computer, follow the instructions below to install a Linux virtual machine with [VMware](https://www.vmware.com/).
 
 > **Note**
-> If you have a newer Mac with an M1 or M2 chip, you cannot install VMware Fusion Pro. One workaround is to install [VMware Fusion Tech Preview](https://customerconnect.vmware.com/downloads/get-download?downloadGroup=FUS-PUBTP-2021H1) instead. Way to check for chip type: `Apple Logo -> About This Mac -> Overview -> Processor`.
+> If you have a newer Mac with an M1 chip, you cannot install VMware Fusion Pro. One workaround is to install UTM. Way to check for chip type: `Apple Logo -> About This Mac -> Overview -> Processor`. Follow the instructions at the end of the page to set up your virtual machine.
 
 ## Install VMware
 
@@ -38,11 +38,11 @@ Continue through the setup wizard until you reach a Completed/thank you screen w
 
 You can directly download the ISO file [here](https://releases.ubuntu.com/20.04.4/ubuntu-20.04.4-desktop-amd64.iso) for Ubuntu 20.04.4 from the official Ubuntu website. This may take a while.
 
-<!-- TODO: Option for BitTorrent? Is it safe enough / worthwhile to menton? -->
-
 ## Upload ISO to VMWare
 
 - For MacOS users, follow [this tutorial](https://graspingtech.com/vmware-fusion-ubuntu-20.04/) to set up your Ubuntu 20.04 Virtual Machine.
 - For Windows users, follow [this tutorial](https://youtu.be/Q0Na0f1NtpA) to set up your Ubuntu 20.04 Virtual Machine.
 
-<!-- TODO: Any specific settings we should highlight? -->
+## For Macs with M1 Chip
+
+Please follow the instructions on [these slides](https://docs.google.com/presentation/d/1EXlPI1aAh6rZ-PVWiMQfT54QtLoMHUw1XNEhZK4njlU/edit?usp=sharing) if your MacBook has an M1 Chip.
