@@ -42,7 +42,8 @@ git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
 ```
 
-Copy as you normally would on your computer. To paste into your terminal, use `Ctrl-Shift-V`. To copy from Terminal, use `Ctrl-C`.
+> **Note**
+> If you're copying the above command on your virtual machine, use `Ctrl-C`. To paste into your terminal, use `Ctrl-Shift-V`. To copy from Terminal, use `Ctrl-Shift-C`.
 
 Now is the also the time to set up the virtual machine with any apps you need (ie. Google Chrome). We recommend you stick with the bare minimum (covered in the next steps), as our virtual machine is limited in size. Note you don't need to connect through WiFi on the virtual machine.
 
