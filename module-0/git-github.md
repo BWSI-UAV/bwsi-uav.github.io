@@ -91,16 +91,6 @@ Next, navigate to the repository/directory we just cloned:
 cd BWSI_Student_Code
 ```
 
-Then, add the original BWSI-UAV repository as upstream:
-```bash
-git remote add upstream git@github.com:BWSI-UAV/BWSI_Student_Code.git
-```
-
-To see all the remote urls set, use the following command:
-```bash
-git remote -v
-```
-
 Next, we will try making changes to the README file. Open the file in a text editor/IDE of your choice, and insert a line of text (can be your name, for example). One way to open this in the terminal is using `nano`. Assuming you are already in the repository directory:
 ```bash
 nano README.md
