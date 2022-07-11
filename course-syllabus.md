@@ -51,48 +51,50 @@ To manage remote learning, practicals here are called passports. Each student up
 
 ## Week 1: Quadcopter Basics (7/11)
 
-**Goal:** We will learn about drones and examples of cutting edge UAV research, review BASH and Version Control using Git, and understand the architecture of drones that will culminate in our first challenge of the program.
+**Goal:** We will learn about drones and cutting edge UAV research, review Unix and Version Control using Git, and understand the architecture of drones that will culminate in our first challenge of the program.
 
-- **Monday:** BWSI Kickoff
+- **\[07/11\] Mon:** BWSI Kickoff, Intro & Setup
 
-- **Tuesday:** Introduction & Setup, Intro to Unix, Git, & Debugging
+- **\[07/12\] Tue:** Intro to Unix, Debugging & Git, PEP8 Standard
 
-- **Wednesday:** Hardware, Review of ROS
+- **\[07/13\] Wed:** UAV Hardware, UAV Safety, Intro to Tello, Reintro to ROS
 
-- **Thursday:** Embedded Architecture
+- **\[07/14\] Thu:** ROS Guide, Intro to Challenge 1
 
-- **Friday:** Localization & Reference Frames, Challenge 1
+- **\[07/15\] Fri:** Localization & Reference Frames, Guest Speaker 1, Challenge 1
 
 ## Week 2: Computer Vision & Machine Learning (ML) (7/18)
 
 **Goal:** We will review Linear Algebra concepts, learn about tools that enable autonomous agents to understand their surroundings using RGB images, and grasp how convolutional neural networks work.
 
-- **Monday:** Intro to Theory, Deriv + Convolution
+- **\[07/18\] Mon:** Intro to Theory, Deriv + Convolution
 
-- **Tuesday:** Linear Transformations, Euler Angles & Quaternions, Equations of Motion
+- **\[07/19\] Tue:** Linear Transformations, Euler Angles & Quaternions, Equations of Motion
 
-- **Wednesday:** OpenCV, Regression/LED, Equations of Motion Cont
+- **\[07/20\] Wed:** OpenCV, Regression/LED, Equations of Motion Cont
 
-- **Thursday:** Color Segmentation, Integrating with Quadcopter
+- **\[07/21\] Thu:** Color Segmentation, Integrating with Quadcopter
 
-- **Friday:** Advanced ML Topics in Computer Vision, Intro to Neural Networks, Intro to Tello
+- **\[07/22\] Fri:** Advanced ML Topics in Computer Vision, Intro to Neural Networks, Intro to Tello
 
 ## Week 3: Planning and Control (7/25)
 
 **Goal:** We will understand how autonomous systems make decision and execute tasks with precision.
 
-- **Monday:** Programming with Tello, Neural Networks, Estimators
+- **\[07/25\] Mon:** Programming with Tello, Neural Networks, Estimators
 
-- **Tuesday:** Feedback Control, State Estimation
+- **\[07/26\] Tue:** Feedback Control, State Estimation
 
-- **Wednesday:** Planning Concepts
+- **\[07/27\] Wed:** Planning Concepts
 
-- **Thursday:** Practicals
+- **\[07/28\] Thu:** Practicals
 
-- **Friday:** Practicals & Intro to Final Challenge
+- **\[07/29\] Fri:** Practicals & Intro to Final Challenge
 
-## Week 4: Final Project (8/1)
+## Week 4: Final Project (8/1-8/5)
 
 **Goal:** We will spend the whole week working on the Final Projects in teams.
 
 Since a standardized UAV cage is not readily available in every student’s home, we encourage summer students to choose an open-ended project that encompasses the skills they have learned in the prep coursework and over the summer. In past years, some students built their own race course out of pool noodles and others applied more advanced machine learning topics to create a persona videography drone. If you need project ideas, don’t feel shy about asking the instructors!
+
+The final challenge presentations will be on 08/06 and 08/07 (Saturday and Sunday).
