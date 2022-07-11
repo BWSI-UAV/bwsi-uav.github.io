@@ -11,7 +11,8 @@ parent: "Module 0: Introduction & Setup"
 Configure Git and learn to stage, commit, and push your code to GitHub.
 {: .fs-6 .fw-300 }
 
-For any instructions from this point forward, you should be on your virtual machine, not Windows or MacOS. But note that anything you do here can also be done on a MacOS machine (for future reference).
+> **Note**
+> For any instructions from this point forward, you should be on your virtual machine, not Windows or MacOS.
 
 <details open markdown="block">
   <summary>
@@ -45,7 +46,7 @@ git config --global user.email johndoe@example.com
 > **Note**
 > If you're copying the above command on your virtual machine, use `Ctrl-C`. To paste into your terminal, use `Ctrl-Shift-V`. To copy from Terminal, use `Ctrl-Shift-C`.
 
-Now is the also the time to set up the virtual machine with any apps you need (ie. Google Chrome). We recommend you stick with the bare minimum (covered in the next steps), as our virtual machine is limited in size. Note you don't need to connect through WiFi on the virtual machine.
+Now is the also the time to set up the virtual machine with any apps you need (maybe Google Chrome if you use it over Firefox). We recommend you stick with the bare minimum (covered in the next steps), as our virtual machine is limited in size. Note you don't need to connect through WiFi on the virtual machine.
 
 ## GitHub Code
 
@@ -54,13 +55,14 @@ You will submit all individual code through GitHub.
 1. Make a [GitHub account](https://github.com/) if you haven’t already done so.
 2. Create a new repository called `BWSI_Student_Code`. The repo is empty to start, but you will fill it out in time.
 3. Make sure your repository is set to PRIVATE.
-4. Add the Instructors and TAs as members (viewers):
-  - nhanson2
-  - arykledet
-  - ifueko
-  - mcboyd-bu
-  - mschof
-  - rumaisaabdulhai
+4. You can initialize the repo with a README.
+5. Add the Instructors and TAs as members (viewers):
+  * nhanson2
+  * arykledet
+  * ifueko
+  * mcboyd-bu
+  * mschof
+  * rumaisaabdulhai
 
 ## Creating/Adding a SSH Key
 
