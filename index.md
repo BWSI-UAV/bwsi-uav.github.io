@@ -13,7 +13,7 @@ permalink: /
 Documentation for the course at MIT Beaver Works Summer Institute (BWSI) offered to high school students in the summer of 2022.<br>
 {: .fs-6 .fw-300 }
 
-[BWSI Dashboard](https://beaverworks.ll.mit.edu/CMS/bw/dashboard){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Schedule](https://docs.google.com/presentation/d/1ssPIMvRVrt4oSYZAanSwLEk75r6wTZ1rYXA6TrfarzE/edit?usp=sharing){: .btn .fs-5 .mb-4 .mb-md-0 }
+[BWSI Dashboard](https://beaverworks.ll.mit.edu/CMS/bw/dashboard){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View Schedule](https://docs.google.com/presentation/d/1ssPIMvRVrt4oSYZAanSwLEk75r6wTZ1rYXA6TrfarzE/edit?usp=sharing){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
