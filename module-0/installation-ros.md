@@ -41,8 +41,6 @@ Follow the steps [here](http://wiki.ros.org/ROS/Tutorials/InstallingandConfiguri
 
 Commit and push this workspace to your repo.
 
-<!-- TODO: Is it necessary to fork repo? -->
-
 ## ROS Tutorials
 
 More ROS tutorials can be found [here](http://wiki.ros.org/ROS/Tutorials).
