@@ -60,7 +60,7 @@ You will submit all individual code through GitHub.
   - ifueko
   - mcboyd-bu
   - mschof
-  - rumaisaabduhai
+  - rumaisaabdulhai
 
 ## Creating/Adding a SSH Key
 
