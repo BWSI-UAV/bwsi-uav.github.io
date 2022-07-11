@@ -37,10 +37,10 @@ The content on Tello passports is adapted from the [slide deck](https://docs.goo
 
 This unit's challenges include:
 
-- Connect to your drone
-- Display drone telemetry
-- Fly your drone in position control
-- Fly around objects in your house
+* Connect to your drone
+* Display drone telemetry
+* Fly your drone in position control
+* Fly around objects in your house
 
 If you get stuck, refer to the resources page and reach out to other students and your instructors for help!
 
