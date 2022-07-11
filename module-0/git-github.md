@@ -52,7 +52,7 @@ Now is the also the time to set up the virtual machine with any apps you need (i
 You will submit all individual code through GitHub.
 
 1. Make a [GitHub account](https://github.com/) if you haven’t already done so.
-2. FORK this repository linked [here](https://github.com/BWSI-UAV/BWSI_Student_Code). The repo is empty to start, but you will fill it out in time.
+2. Create a new repository called `BWSI_Student_Code`. The repo is empty to start, but you will fill it out in time.
 3. Make sure your repository is set to PRIVATE.
 4. Add the Instructors and TAs as members (viewers):
   - nhanson2
@@ -76,7 +76,7 @@ The second step is to add the public SSH key to our GitHub account. Follow the i
 
 ## Pushing to GitHub
 
-We will test making changes to the student code to make sure you can push changes to your remote forked repository on GitHub. We will need Terminal for this.
+We will test making changes to the student code to make sure you can push changes to your remote repository on GitHub. We will need Terminal for this.
 
 First, `cd` to the directory where you want to add this repository. One option is to add the repo to the home directory, indicated by the `~` (tilde) sign. You should already be at the home directory, but to make sure enter `cd` in the terminal.
 
