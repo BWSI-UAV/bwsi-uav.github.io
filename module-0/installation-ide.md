@@ -22,7 +22,34 @@ Set up your IDE/workspace with helpful extensions.
 
 ## Download IDE
 
-Visual Studio Code is a great IDE where you can develop your code and edit many kinds of files. Download VS Code from [here](https://code.visualstudio.com) for Debian/Ubuntu (.deb).
+Visual Studio Code is a great IDE where you can develop your code and edit many kinds of files. Download VS Code from [here](https://code.visualstudio.com/#alt-downloads).
+
+* If you have a Mac with an M1 chip, download the `.deb` file for ARM 64.
+* Otherwise, download the `.deb` file for 64 bit.
+
+After downloading, at the bottom of your browser it might say "This type of file can harm your computer." You should select "Keep". Then go to your Downloads in your Files and right click on the file and select "Open with Software Install". Then you should just install VS Code.
+
+Alternatively, to install VS code in Terminal once you've downloaded the `.deb` file, you can follow these steps:
+
+1. Go to the downloads folder:
+  ```
+  cd ~/Downloads
+  ```
+
+2. Then install VS code, replacing `<code.deb pkg>` with the name of the `.deb` file you downloaded:
+  ```
+  sudo apt install ./<code.deb pkg>
+  ```
+
+3. If you get a broken install error run:
+  ```
+  sudo apt --fix-broken install
+  ```
+
+4. Now run VS Code by either looking for it using the super (window/cmd) key or by opening a terminal and running
+  ```
+  code
+  ```
 
 ## Important Extensions
 
