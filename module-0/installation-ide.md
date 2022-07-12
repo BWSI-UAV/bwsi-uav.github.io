@@ -82,3 +82,8 @@ Using pip, we will install a python library for the Tello:
 ```bash
 pip install djitellopy
 ```
+
+We also need to install pep8:
+```bash
+pip install pep8
+```
