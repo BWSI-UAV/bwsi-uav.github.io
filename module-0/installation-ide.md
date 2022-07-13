@@ -1,5 +1,5 @@
 ---
-title: "Installation: IDE"
+title: "Installation: IDE & Packages"
 has_children: false
 nav_order: 4
 parent: "Module 0: Introduction & Setup"
@@ -81,6 +81,16 @@ sudo apt install python3-pip
 Using pip, we will install a python library for the Tello:
 ```bash
 pip install djitellopy
+```
+
+When installing `djitellopy`, you may encounter the following error:
+<div align="center"> 
+    <img src="/assets/images/numpy_error.png" alt="DJI Tello" width="500" />
+</div>
+
+The error says we currently have `numpy` version `1.17.4`, but because we have a later version of `opencv-python`, we need at least version `1.19.3` for `numpy`. So, we will reinstall numpy with the compatible version like so:
+```bash
+pip install numpy=1.19.3
 ```
 
 We also need to install pep8:
