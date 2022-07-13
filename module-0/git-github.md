@@ -120,3 +120,10 @@ git push origin main
 ```
 
 You should see the changes reflected on your online GitHub repository.
+
+### Some Known Errors
+{: .no_toc }
+
+If you use an SSH config file, you may have an error that says "Bad configuration option". In this case, these links might help resolve the issue:
+1. [Bad Configuration Option: UseKeychain](https://stackoverflow.com/questions/47455300/ssh-config-bad-configuration-option-usekeychain-on-mac-os-sierra-10-12-6)
+2. [Bad Configuration Option: IdentifyFile](https://stackoverflow.com/questions/16116788/github-ssh-config-bad-configuration-option-identifyfile)
