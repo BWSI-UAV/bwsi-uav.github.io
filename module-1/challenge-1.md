@@ -63,7 +63,7 @@ You can work together in groups of 3 or 4, but we encourage everyone to write th
 
     Don't do anything with these yet, but take some time to discuss these topics with your team and review all of the above message links.
 
-4. You will need to create custom messages called **State** and **Flip** to store the drone’s state and desired type of flip. How you design these messages is up to you. Refer to this [post](https://answers.ros.org/question/271620/importerror-no-module-named-xxxxmsg/?answer=320343#post-id-320343) to understand how to create your own messages.
+4. You will need to create custom messages called **State** and **Flip** to store the drone’s state and desired type of flip. How you design these messages is up to you. Refer to this [post](https://answers.ros.org/question/271620/importerror-no-module-named-xxxxmsg/?answer=320343#post-id-320343) to understand how to create your own messages (it's the second answer by jayess, not Ruben Alves).
 
 5. You need to create two nodes. The first node, called `driver`, will **publish** the cameras and state information from the Tello. It will **subscribe** to flip, velocity, takeoff, and land commands and directly send those commands to the drone. The second node, called `teleop` (short for teleoperation or manual control) will be listening to keyboard input from the user and **publishing** flip, velocity, takeoff, and land commands.
 
