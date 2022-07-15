@@ -1,7 +1,7 @@
 ---
 title: "Practical 2: Localization Viewer"
 has_children: false
-nav_order: 3
+nav_order: 4
 parent: "Module 1: Quadcopter Basics"
 ---
 
