@@ -1,14 +1,14 @@
 ---
-title: "Practical 1: NumPy"
+title: "Practical 1: Intro to NumPy & Linear Algebra"
 has_children: false
 nav_order: 1
 parent: "Module 2: Computer Vision & Machine Learning"
 ---
 
-# Practical 1: NumPy
+# Intro to NumPy & Linear Algebra
 {: .no_toc }
 
-Learn how to use the numpy library for linear algebra operations.
+Learn linear algebra and how to use the numpy library.
 {: .fs-6 .fw-300 }
 
 <details open markdown="block">
@@ -22,5 +22,5 @@ Learn how to use the numpy library for linear algebra operations.
 
 ## Tutorials
 
-1. [Numpy For Beginners Tutorial](https://numpy.org/doc/stable/user/absolute_beginners.html)
-2. [Numpy Linear Algebra Tutorial](https://numpy.org/doc/1.21/user/tutorial-svd.html)
+1. Follow the NumPy For Beginners Tutorial [here](https://numpy.org/doc/stable/user/absolute_beginners.html).
+2. Complete the NumPy Linear Algebra Tutorial [here](https://numpy.org/doc/1.21/user/tutorial-svd.html).
