@@ -1,7 +1,7 @@
 ---
 title: "Tello Passport 2"
 has_children: false
-nav_order: 1
+nav_order: 2
 parent: "Module 2: Computer Vision & Machine Learning"
 ---
 
