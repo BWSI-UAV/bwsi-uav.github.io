@@ -24,9 +24,12 @@ Learn how to generate and detect AR Tags using Python and OpenCV.
 
 This practical requires the library `opencv-contrib-python`, which has additional modules that are not included in `opencv-python`. Install with the following command:
 
-`pip3 install opencv-contrib-python`
+```
+pip3 install opencv-contrib-python
+```
 
 ## Code Examples and Data
+
 The data and examples used in this practical will be [here](https://github.com/BWSI-UAV/intro_to_ar_tags/blob/main/README.md).
 Clone this repository and use it as a boilerplate to complete the following challenges.
 
@@ -59,7 +62,7 @@ You can generate and print your own AR tags for any use case. ArUco contains a n
 * `DICT_APRILTAG_36h11`
 * `DICT_ARUCO_ORIGINAL`
  
-The tags of format `DICT_{SIZE}x{SIZE}_COUNT` are ArUco based tags that use `SIZExSIZE` bits for tag information and have `COUNT` distinct tags. We will be using the ArUco original librariy to create two tags:
+The tags of format `DICT_{SIZE}x{SIZE}_COUNT` are ArUco based tags that use `SIZExSIZE` bits for tag information and have `COUNT` distinct tags. We will be using the ArUco original library to create two tags:
 ```python
 import numpy as np
 import cv2
@@ -72,10 +75,12 @@ cv2.imwrite('DICT_ARUCO_ORIGINAL_id_{}_{}.png'.format(ID, SIZE), marker)
 ```
 
 ### CHALLENGE 1: Generating AR Tags
+
 Generate AR tags for the dictionary `DICT_APRILTAG_16H5` for ids `7, 18,` and `23`.
 * These should be of size 500 pixels by 500 pixels.
 
 ## Detecting AR Tags
+
 The ArUco library has built-in functionality for detecting AR tags within images:
 ```python
 tags = cv2.imread('data/two_tags_ARUCO_ORIGINAL.png')
@@ -86,6 +91,7 @@ cv2.imwrite('detection_two_tags_ARUCO_ORIGINAL.png', detection)
 ```
 
 ### CHALLENGE 2: Calculating Distance Between Tags
+
 Calculate the distance between the AR tags in the file `data/two_tags_APRILTAG_16H5.png` in centimeters. Some notes to keep in mind:
 * The real-world width of each tag is 3.
 * The dictionary being used is `APRILTAG_16H5`.
