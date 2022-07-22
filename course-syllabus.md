@@ -67,21 +67,21 @@ To manage remote learning, practicals here are called passports. Each student up
 
 **Goal:** We will review Linear Algebra concepts, learn about tools that enable autonomous agents to understand their surroundings using RGB images, and grasp how convolutional neural networks work.
 
-- **\[07/18\] Mon:** Intro to Theory, Deriv + Convolution
+- **\[07/18\] Mon:** Intro to Computer Vision, Matrices & Numpy
 
-- **\[07/19\] Tue:** Linear Transformations, Euler Angles & Quaternions, Equations of Motion
+- **\[07/19\] Tue:** OpenCV, Color Segmentation
 
-- **\[07/20\] Wed:** OpenCV, Regression/LED, Equations of Motion Cont
+- **\[07/20\] Wed:** Intro to Probability, Intro to Machine Learning Pt. 1
 
-- **\[07/21\] Thu:** Color Segmentation, Integrating with Quadcopter
+- **\[07/21\] Thu:** Intro to Machine Learning Pt. 2, Advanced Topics: Machine Learning in Computer Vision
 
-- **\[07/22\] Fri:** Advanced ML Topics in Computer Vision, Intro to Neural Networks, Intro to Tello
+- **\[07/22\] Fri:** Intro to Tags, Challenge 2
 
 ## Week 3: Planning and Control (7/25)
 
 **Goal:** We will understand how autonomous systems make decision and execute tasks with precision.
 
-- **\[07/25\] Mon:** Programming with Tello, Neural Networks, Estimators
+- **\[07/25\] Mon:** Guest Speaker 2, Estimators
 
 - **\[07/26\] Tue:** Feedback Control, State Estimation
 
