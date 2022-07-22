@@ -62,7 +62,7 @@ You can generate and print your own AR tags for any use case. ArUco contains a n
 * `DICT_APRILTAG_36h11`
 * `DICT_ARUCO_ORIGINAL`
  
-The tags of format `DICT_{SIZE}x{SIZE}_COUNT` are ArUco based tags that use `SIZExSIZE` bits for tag information and have `COUNT` distinct tags. We will be using the ArUco original library to create two tags:
+The tags of format `DICT_{SIZE}x{SIZE}_COUNT` are ArUco based tags that use `SIZExSIZE` bits for tag information and have `COUNT` distinct tags. We can use the ArUco library to create tags:
 ```python
 import numpy as np
 import cv2
