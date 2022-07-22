@@ -27,7 +27,7 @@ This practical requires the library `opencv-contrib-python`, which has additiona
 `pip3 install opencv-contrib-python`
 
 ## Code Examples and Data
-The data examples used in this practical will be [here](https://github.com/BWSI-UAV/intro_to_ar_tags/blob/main/README.md).
+The data and examples used in this practical will be [here](https://github.com/BWSI-UAV/intro_to_ar_tags/blob/main/README.md).
 Clone this repository and use it as a boilerplate to complete the following challenges.
 
 ## Generating AR Tags
