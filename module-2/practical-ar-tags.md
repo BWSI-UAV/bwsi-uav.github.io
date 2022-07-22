@@ -73,7 +73,7 @@ cv2.imwrite('DICT_ARUCO_ORIGINAL_id_{}_{}.png'.format(ID, SIZE), marker)
 
 ### CHALLENGE 1: Generating AR Tags
 Generate AR tags for the dictionary `DICT_APRILTAG_16H5` for ids `7, 18,` and `23`.
-Thses should be of size 500 pixels by 500 pixels.
+* These should be of size 500 pixels by 500 pixels.
 
 ## Detecting AR Tags
 The ArUco library has built-in functionality for detecting AR tags within images:
