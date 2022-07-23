@@ -29,7 +29,7 @@ heading_anchors: true
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "&copy; Copyright 2022 Beaver Works Summer Institute, Nathaniel Hanson, Kendrick Cancio, Ross Allen, Mark Mazumder."
+footer_content: "&copy; Copyright 2022 MIT Beaver Works Summer Institute."
 
 plugins:
   - jekyll-seo-tag

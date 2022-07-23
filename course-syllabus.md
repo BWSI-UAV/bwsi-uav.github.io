@@ -79,17 +79,17 @@ To manage remote learning, practicals here are called passports. Each student up
 
 ## Week 3: Planning and Control (7/25)
 
-**Goal:** We will understand how autonomous systems make decision and execute tasks with precision.
+**Goal:** We will understand how autonomous systems make decisions and execute tasks with precision.
 
-- **\[07/25\] Mon:** Guest Speaker 2, Estimators
+- **\[07/25\] Mon:** Guest Speaker 2, Intro to Control Theory, Reference Frames & Transforms, Continuation of Challenge 2
 
-- **\[07/26\] Tue:** Feedback Control, State Estimation
+- **\[07/26\] Tue:** Euler Angles & Quaternions, Equations of Motion, Estimators
 
-- **\[07/27\] Wed:** Planning Concepts
+- **\[07/27\] Wed:** Motion Planning, Feedback & PID Control
 
-- **\[07/28\] Thu:** Practicals
+- **\[07/28\] Thu:** Simultaneous Localization & Mapping (SLAM) + Optical Flow, Tello Passport 3
 
-- **\[07/29\] Fri:** Practicals & Intro to Final Challenge
+- **\[07/29\] Fri:** Applications with ROS, Introduce Final Challlenge
 
 ## Week 4: Final Project (8/1-8/5)
 
